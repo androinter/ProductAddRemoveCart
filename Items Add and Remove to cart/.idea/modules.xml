@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Items_Add_and_Remove_to_cart.iml" filepath="$PROJECT_DIR$/.idea/modules/Items_Add_and_Remove_to_cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Items_Add_and_Remove_to_cart.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Items_Add_and_Remove_to_cart.app.iml" />
+    </modules>
+  </component>
+</project>
